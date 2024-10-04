@@ -1,3 +1,6 @@
+The Todo Manager app is live! You can check it out at:
+
+[latest-todo-manager.netlify.app](https://latest-todo-manager.netlify.app/)
 
 Todo App
 
